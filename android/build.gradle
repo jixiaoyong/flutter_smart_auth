@@ -30,7 +30,7 @@ android {
         namespace 'fman.ge.smart_auth'
     }
 
-    compileSdk 35
+    compileSdk 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
